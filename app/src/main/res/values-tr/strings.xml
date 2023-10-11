@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CasinoClub Uygulaması</string>
+    <string name="tap_on_handler">İşleyiciye dokunun!</string>
+    <string name="not_enough_money">Yetersiz para!</string>
+    <string name="you_lose">Kaybettin!</string>
+    <string name="jackpot">Büyük ikramiye!</string>
+    <string name="you_win">Sen kazandın!</string>
+    <string name="new_game">Yeni oyun</string>
+    <string name="rules">Tüzük</string>
+</resources>

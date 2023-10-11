@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CasinoClubApp</string>
+    <string name="tap_on_handler">Tap on handler!</string>
+    <string name="not_enough_money">Not Enough Money!</string>
+    <string name="you_lose">You lose!</string>
+    <string name="jackpot">Jackpot!</string>
+    <string name="you_win">You win!</string>
+    <string name="new_game">New game</string>
+    <string name="rules">Rules</string>
+    <string name="plus1000">+1000$ !</string>
+</resources>
